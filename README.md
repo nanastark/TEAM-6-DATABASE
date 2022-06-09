@@ -20,8 +20,15 @@ Maka dari itu, Team 6 membuat sebuah CRUD Apps dan prototype aplikasi dimana use
 
 ``` mermaid
 graph TD;
-nana-->noi;
+Open Application-->Click on Search;
+Choose Type ofSearch-->Search;
 ``` 
 
 ## How to Use Application
 Cara menggunakan aplikasi The Library of Stark Industries sangat mudah. Pengguna hanya perlu klik 'Search' pada pojok kanan atas tampilan, lalu selanjutnya tampilan akan berubah menjadi halaman pencarian dan pengguna dapat melakukan pencarian berdasarkan pilihannya.
+
+## Application Interface
+![Desktop - 1](https://user-images.githubusercontent.com/95521673/172848868-9870780f-2cf7-4ab2-b86b-c1568c21aa35.png)
+![Desktop - 2](https://user-images.githubusercontent.com/95521673/172848898-ccc933cd-eef9-4031-a990-c92d20aef894.png)
+
+## Reference
