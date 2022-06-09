@@ -20,5 +20,8 @@ Maka dari itu, Team 6 membuat sebuah CRUD Apps dan prototype aplikasi dimana use
 
 ``` mermaid
 graph TD;
-nana --> noi;
+nana-->noi;
 ``` 
+
+## How to Use Application
+Cara menggunakan aplikasi The Library of Stark Industries sangat mudah. Pengguna hanya perlu klik 'Search' pada pojok kanan atas tampilan, lalu selanjutnya tampilan akan berubah menjadi halaman pencarian dan pengguna dapat melakukan pencarian berdasarkan pilihannya.
