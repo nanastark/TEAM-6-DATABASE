@@ -1,8 +1,8 @@
 # TEAM-6-DATABASE
 
 ## Team Members
-- Michael Steven
-- Sajidah Layali Rabbani
+- Michael Steven [2100210]
+- Sajidah Layali Rabbani [2102548]
 - Syla Rizna Maharani [2104763]
 
 ## The Library of Stark Industries
@@ -21,7 +21,7 @@ Maka dari itu, Team 6 membuat sebuah CRUD Apps dan prototype aplikasi dimana use
 ``` mermaid
 graph TD;
 Open Application-->Click on Search;
-Choose Type ofSearch-->Search;
+Choose Type of Search-->Search;
 ``` 
 
 ## How to Use Application
