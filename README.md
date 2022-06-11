@@ -32,6 +32,9 @@ Cara menggunakan aplikasi The Library of Stark Industries sangat mudah. Pengguna
 
 ## Code Terminal Output
 
+Pencarian Berdasarkan Nama Buku :
+![uas basdat py - uas basdat - Visual Studio Code 11_06_2022 17_56_01 (1)](https://user-images.githubusercontent.com/95521673/173190285-79f53433-d87a-4c46-bd9c-412277486ca4.png)
+
 Pencarian Berdasarkan Tahun Terbit :
 ![WhatsApp Image 2022-06-11 at 6 02 35 PM](https://user-images.githubusercontent.com/95521673/173186644-365e2b3c-fde1-4f6b-bcad-70e107128392.jpeg)
 
